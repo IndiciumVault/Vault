@@ -1,8 +1,4 @@
-
-
-┬┌┐┌┌┬┐┬┌─┐┬┬ ┬┌┬┐  ┬  ┬┌─┐┬ ┬┬ ┌┬┐
-││││ ││││  ││ ││││  └┐┌┘├─┤│ ││  │ 
-┴┘└┘─┴┘┴└─┘┴└─┘┴ ┴   └┘ ┴ ┴└─┘┴─┘┴ 
+INDICIUM VAULT
 
 The purpose of this package is to provide enthusiasts, would-be enthusiasts and the generally intrigued an offline library of files that cover an expanding variety of subjects.
 
